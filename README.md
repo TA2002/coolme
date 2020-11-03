@@ -8,7 +8,7 @@ The following project is written using Swift&Objective-C programming languages a
 <table>
   <tr>
     <td><img src="https://github.com/TA2002/Coolme-Project/blob/master/0.jpg" height="550" width="300" align="center"></td>
-      <td>    <img src="https://github.com/TA2002/Coolme-Project/blob/master/Icon-App-83.5x83.5%402x.png" height="150" width="150" top="10" ></td>
+      <td>    <img src="https://github.com/TA2002/Coolme-Project/blob/master/Icon-App-83.5x83.5%402x.png" height="150" width="150" left="30" ></td>
      <td><img src="https://github.com/TA2002/Coolme-Project/blob/master/2.jpg" height="550" width="300" ></td>
   </tr>
   <tr>
