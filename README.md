@@ -1,7 +1,7 @@
 # ios-vision | Coolme-Project
 Coolme, which means "try not to laugh," is a unique product for fans of Kazakhstani humor. Interesting content that combines excerpts from the best performances by comedians, viners and video bloggers of Kazakhstan will simply not let you get bored. Find out your limits of perseverance in the face of selective humor and have fun with your friends.
 
-The following project is written using Swift programming language and mostly uses IOS vision, Alamofire, and youtube-player libraries.
+The following project is written using Swift&Objective-C programming languages and mostly uses IOS vision, Alamofire, and youtube-player libraries.
 
 <p align="center">
   <img src="https://github.com/TA2002/Coolme-Project/blob/master/Icon-App-83.5x83.5%402x.png" height="150" width="150" top="10" >
